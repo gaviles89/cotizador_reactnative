@@ -1,0 +1,9 @@
+const PRIMARY_COLOR = "#30748C"
+
+export default {
+    PRIMARY_COLOR: "#30748C",
+    PRIMARY_COLOR_DARK: "#13343E",
+    WHITE_COLOR: "#FFFFFF",
+    BLACK_COLOR: "#212121",
+    CAPE_COD_COLOR: "#3D4446"
+}
